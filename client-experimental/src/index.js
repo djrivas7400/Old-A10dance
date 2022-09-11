@@ -17,7 +17,7 @@ const authLink = setContext((_, { headers }) => {
 });
 
 const httpLink = new HttpLink({
-  uri: 'http://pcvm860-1.emulab.net:4000/',
+  uri: 'http://clnodevm085-1.clemson.cloudlab.us:4000/',
 });
 
 const client = new ApolloClient({
