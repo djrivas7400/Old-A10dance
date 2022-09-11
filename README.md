@@ -4,7 +4,7 @@ No Kubernetes at this point.
 
 Good for demos and for editing the webui, database, and node without worrying about the cloud stuff.
 
-##Get Website Up and Running
+## Get Website Up and Running
 1. Open a CloudLab instance for docker
 2. ssh into cloudlab in terminal
   a. Clone this git hub repository
